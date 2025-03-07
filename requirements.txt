@@ -1,2 +1,3 @@
-pymicro-wakeword==1.0.0
+# Temporarily use this branch for tflite support
+git+https://github.com/michelle-avery/pymicro-wakeword.git@tflite-support
 wyoming==1.5.4
